@@ -235,7 +235,11 @@ customer-segmentation-rfm-analysis/
 │   └── rfm_analysis.ipynb
 │
 ├── sql/
-│
+│   ├── 04_rfm_customer_dataset.sql
+│   ├── 03_data_quality_audit.sql
+│   ├── 02_import_verification.sql
+│   └── 01_create_tables.sql
+|
 ├── outputs/
 │   ├── customer_rfm_final.csv
 │   └── segment_summary.csv
